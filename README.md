@@ -5,6 +5,6 @@
 hier steht code 
 
 ```r
-library(paket)
+library(Paket)
 1 + 1
 ```
